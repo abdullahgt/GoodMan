@@ -1,2 +1,1 @@
-# GoodMan
-GUI based game developed using C.
+# GoodMan game developed using C.
